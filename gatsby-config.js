@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/techntv",
+  pathPrefix: "/techntv.github.io",
   siteMetadata: {
     title: 'Gatsby Workshop',
     description: 'A site we built together during a full-day Gatsby workshop'
