@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(c,t,e){"use strict";e.r(t);var n=e("q1tI"),l=e.n(n),b=e("Wbzz"),o=e("Bl7J"),u=e("So3+"),a=e("qKvR");t.default=function(){return Object(a.c)(l.a.Fragment,null,Object(a.c)(u.a,null),Object(a.c)(o.a,null,Object(a.c)("h1",null,"About me"),Object(a.c)("p",null,"This is my personal website."),Object(a.c)(b.a,{to:"/"},"← back to home")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-26d8386783a127f7f9b4.js.map
